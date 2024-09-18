@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+ }
+ 
+ 
+ header{
+     background-color: black; 
+     color: white;
+     width: 100%;
+     line-height: 40px;
+     height: 90px;
+     line-height: 90px;
+     
+     
+ }
+ 
+ #cim_______gecim{
+    margin-left: 30px;
+    font-size: 30px;
+    font-family: fantasy;
+    width: 30px;
+    
+ }
+ 
+ #cim_______gecim:hover{
+     color: red;
+     cursor: pointer;
+     width: 30px;
+ }
+ 
+ #promo img{
+     justify-content: center;
+     
+ }
+ 
+ .fejlec{
+     display: flex;
+     
+ 
+ }
+ 
+ #gombok{
+    height: 30px;
+     margin-left: 1400px;
+     margin-top: 20px;
+ }
+ 
+ #login{
+     margin-left: 1200px;
+     margin-right: 20px;
+     
+ }
+
+ 
+ #profil img{
+     height: 50px;
+     margin-right: 2000px;
+     margin-right: 30px;
+ }
+ 
